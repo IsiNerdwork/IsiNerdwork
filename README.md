@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @IsiNerdwork
 - 👀 - Repositorio personal de IPTv con canales de Mexico y Latinoamerica
+- si quieres colaborar con archivos m3u desde los servers oficiales bienvenidos
